@@ -7,7 +7,6 @@ public class Main {
     carOne.printInfo();
     Motorcycle motOne = new Motorcycle(2,250, 400);
     motOne.printInfo();
-
 	// write your code here
     }
 }
