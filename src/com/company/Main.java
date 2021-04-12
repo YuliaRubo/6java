@@ -9,10 +9,6 @@ public class Main {
     motOne.printInfo();
 
 
-
-
-
-
 	// write your code here
     }
 }
